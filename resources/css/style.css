@@ -34,7 +34,6 @@ h1{
 }
 .final_button_container{
 	margin-top: 400px
-	
 }
 .suspect_button{
 	width: 500%;
@@ -77,4 +76,12 @@ h1{
 	margin: 0;
 	width: 100%;
 	height: 100%;
+}
+
+.riddle_background{
+	margin-top: 800px;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
